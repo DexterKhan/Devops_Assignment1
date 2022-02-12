@@ -12,3 +12,6 @@ Continuous Deployment refer to the overall CI/CD process wherein the incremental
 
 # What is Cloud Computing?
 Cloud computing refers to the aquiring computing resources on demand. All the IT services one need with self-service access. Follows pay as you use only model. eg SaaS, IaaS,PaaS etc.
+
+# Difference b/w Git & Github
+Git is a version control system that lets you manage and keep track of your source code history. GitHub is a cloud based hosting service that lets you manage Git repos.
