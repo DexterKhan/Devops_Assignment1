@@ -21,3 +21,8 @@ Git is a version control system that lets you manage and keep track of your sour
 2) Staging Area
 3) Local Repo
 4) Remote Repo
+
+# 3 methods of git reset?
+1) Mixed: Remove the commit from local repo, and also remove changes from staging area.
+2) Soft: Remove the commit from local repo, but keep the files in staging area.
+3) Hard: Remove the commit from local repo and staging area and even change the local files.
