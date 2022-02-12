@@ -9,3 +9,6 @@ The agile apporach works in sprint duration from a week to a month. DevOps on th
 Continuous integration is a process under which developers implement incremental updates to a software product. 
 Continuous delivery picks up from the point where the CI pipeline ends. It performs additional activities up until the final delivery of the software product.
 Continuous Deployment refer to the overall CI/CD process wherein the incremental changes in the software product are pushed into the pipeline and are incorporated into the official software release.
+
+# What is Cloud Computing?
+Cloud computing refers to the aquiring computing resources on demand. All the IT services one need with self-service access. Follows pay as you use only model. eg SaaS, IaaS,PaaS etc.
