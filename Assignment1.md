@@ -15,3 +15,9 @@ Cloud computing refers to the aquiring computing resources on demand. All the IT
 
 # Difference b/w Git & Github
 Git is a version control system that lets you manage and keep track of your source code history. GitHub is a cloud based hosting service that lets you manage Git repos.
+
+# Staging of Git
+1) Working Directory
+2) Staging Area
+3) Local Repo
+4) Remote Repo
